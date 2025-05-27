@@ -22,4 +22,4 @@ v3 = Vaccination(name="Feline Distemper", date="2024-03-15", pet=p2)
 
 session.add_all([o1, o2, p1, p2, v1, v2, v3])
 session.commit()
-print(" Successful.")
+print("Successful!")
