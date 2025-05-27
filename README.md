@@ -80,7 +80,7 @@ pip install -r requirements.txt
 # Step 2: Create the database
 python create_db.py
 
-# Step 3: Seed initial data (optional)
+# Step 3: Seed initial data 
 python -m app.seed
 
 # Step 4: Start the CLI app
