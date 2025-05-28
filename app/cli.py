@@ -87,7 +87,7 @@ def add_vaccination():
     if name and date and pet_id.isdigit():
         session.add(Vaccination(name=name, date=date, pet_id=int(pet_id)))
         session.commit()
-        print("Vaccination added.")
+        print("Added.")
     else:
         print("Invalid input.")
 
