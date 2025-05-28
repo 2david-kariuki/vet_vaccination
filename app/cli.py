@@ -65,7 +65,7 @@ def add_owner():
         session.commit()
         print("Owner added.")
     else:
-        print("Missing information.")
+        print("Syntax error!")
 
 
 def add_pet():
