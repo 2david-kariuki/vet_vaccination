@@ -1,6 +1,6 @@
 # Vet Vaccination CLI Project
 
-This is a terminal-based Python application that helps track pet owners, their pets, and vaccinations using SQLite and SQLAlchemy.
+This is a terminal-based Python application that helps track pet owners, their pets, and vaccinations using SQLite and SQLAlchemy
 
 ---
 
